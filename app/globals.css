@@ -1,13 +1,39 @@
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --pp-bg: #f7f5f1;
+  --pp-ink: #121212;
+  --pp-ink-muted: #3a3a3a;
+  --pp-rule: rgba(18, 18, 18, 0.12);
+  --pp-max: 1120px;
+  --pp-font-sans: var(--font-libre-franklin), "Libre Franklin", sans-serif;
+  --pp-font-serif: var(--font-source-serif), "Source Serif 4", serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
 html,
 body {
   margin: 0;
   padding: 0;
-  background: var(--background);
-  color: var(--foreground);
-  font-family: sans-serif;
+  background: var(--pp-bg);
+  color: var(--pp-ink);
+  font-family: var(--pp-font-sans);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
