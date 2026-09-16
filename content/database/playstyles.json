@@ -1,0 +1,284 @@
+[
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "build-up",
+      "control"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "manual-passing-vs-assisted",
+      "fluid-formations-v6-guide"
+    ],
+    "slug": "possession-game",
+    "name": "Possession Game",
+    "summary": "Patient circulation, high lines, and central overloads.",
+    "managerHint": "Managers who keep the ball and wait for gaps.",
+    "inPossession": "Short combinations, width from fullbacks, late midfield runs.",
+    "outOfPossession": "Compact mid-block; press triggers on backwards passes.",
+    "idealFormations": [
+      "4-2-3-1",
+      "4-3-3",
+      "3-2-4-1"
+    ],
+    "tips": [
+      "Don't force verticals into a set defensive line.",
+      "Use AMF as a link, not a permanent second CF."
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "transition",
+      "pace"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "defending-against-long-ball-spam",
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "quick-counter",
+    "name": "Quick Counter",
+    "summary": "Win the ball and attack space before the opponent resets.",
+    "managerHint": "Transition managers who punish turnovers.",
+    "inPossession": "First pass forward; runners beyond the ball.",
+    "outOfPossession": "Aggressive mid-press; force rushed clearances.",
+    "idealFormations": [
+      "4-2-1-3",
+      "4-3-3",
+      "4-2-1-3"
+    ],
+    "tips": [
+      "Keep one midfielder as a safety valve.",
+      "Don't spam long balls every turnover."
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "direct",
+      "pace"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "defending-against-long-ball-spam"
+    ],
+    "slug": "long-ball-counter",
+    "name": "Long Ball Counter",
+    "summary": "Bypass midfield with early diagonals into runners.",
+    "managerHint": "Direct managers with pacey front lines.",
+    "inPossession": "Early switch or channel ball into CF/SS.",
+    "outOfPossession": "Deep block, then spring.",
+    "idealFormations": [
+      "4-2-2-2",
+      "5-2-1-2",
+      "4-4-2"
+    ],
+    "tips": [
+      "Target man + runner pairing works best.",
+      "Expect mid-block counters against you."
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "width",
+      "crossing"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "out-wide",
+    "name": "Out Wide",
+    "summary": "Stretch the pitch; create cutbacks and far-post headers.",
+    "managerHint": "Wing-heavy attacking patterns.",
+    "inPossession": "Isolate fullbacks/wingers 1v1; overload weak side.",
+    "outOfPossession": "Trap inside; force play toward your strong wing.",
+    "idealFormations": [
+      "4-3-3",
+      "3-4-3",
+      "4-2-3-1"
+    ],
+    "tips": [
+      "Don't cross every attack — recycle once.",
+      "LWF/RWF with cutting roles excel."
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "v6",
+      "half-space"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      },
+      {
+        "label": "Konami games topics",
+        "url": "https://www.konami.com/games/us/en/topics/3344/"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "overload-playstyle-conte-linkup",
+      "fluid-formations-v6-guide"
+    ],
+    "slug": "overload",
+    "name": "Overload",
+    "summary": "Flood one half-space and create numerical superiority.",
+    "managerHint": "Modern overload instructions from v6 Game Plan tools.",
+    "inPossession": "Pull markers with decoy runs; third-man arrives late.",
+    "outOfPossession": "Rest defence stays compact on the weak side.",
+    "idealFormations": [
+      "3-2-4-1",
+      "4-2-3-1",
+      "4-3-2-1"
+    ],
+    "tips": [
+      "Pair with Fluid Formations when available.",
+      "Don't leave CB isolated vs Quick Counter."
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "control"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "manual-passing-vs-assisted"
+    ],
+    "slug": "short-passer",
+    "name": "Short Passer (build emphasis)",
+    "summary": "Editorial label for sides that refuse low-percentage switches.",
+    "managerHint": "Possession-leaning managers with technical mids.",
+    "inPossession": "Triangles; GK as extra passer under pressure.",
+    "outOfPossession": "Delay rather than gamble.",
+    "idealFormations": [
+      "4-3-3",
+      "4-2-3-1"
+    ],
+    "tips": [
+      "Manual passing helps under press.",
+      "Track late CMF runners."
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "low-block"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "custom-tournament-mode-guide"
+    ],
+    "slug": "defensive",
+    "name": "Defensive",
+    "summary": "Low risk, deep lines, and selective counters.",
+    "managerHint": "Park-and-spring or tournament game management.",
+    "inPossession": "Few touches in midfield; clear channels.",
+    "outOfPossession": "Two banks of four/five; deny half-spaces.",
+    "idealFormations": [
+      "5-4-1",
+      "5-3-2",
+      "4-4-2"
+    ],
+    "tips": [
+      "Have one outlet who can hold.",
+      "Don't panic-clear into their AMF."
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "structure"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "anchorman-focus",
+    "name": "Anchorman Midfield Focus",
+    "summary": "Protect the box with a dedicated sitting midfielder.",
+    "managerHint": "Any style that needs a destroyer screen.",
+    "inPossession": "DMF stays; CMF/AMF progress.",
+    "outOfPossession": "DMF shadows the opponent AMF.",
+    "idealFormations": [
+      "4-1-4-1",
+      "4-2-3-1",
+      "4-3-3"
+    ],
+    "tips": [
+      "Don't ask Anchorman to join every attack.",
+      "Pair with aggressive fullbacks carefully."
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "v6",
+      "link-up"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "overload-playstyle-conte-linkup"
+    ],
+    "slug": "link-up-play",
+    "name": "Link-Up Play Emphasis",
+    "summary": "Use dual Link-Up partners to create free men.",
+    "managerHint": "Managers supporting Conte-style dual link patterns.",
+    "inPossession": "Trigger Link-Up then attack the vacated lane.",
+    "outOfPossession": "Recover shape quickly after the combination.",
+    "idealFormations": [
+      "3-5-2",
+      "3-4-2-1",
+      "4-2-2-2"
+    ],
+    "tips": [
+      "Practice the trigger in training matches.",
+      "Don't spam if the first pass is covered."
+    ]
+  }
+]

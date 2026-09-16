@@ -1,0 +1,42 @@
+.wrap {
+  margin: 2rem 0 0;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--pp-rule);
+}
+
+.label {
+  margin: 0 0 0.65rem;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--pp-ink-muted);
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.button {
+  font: inherit;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  min-height: 40px;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--pp-rule);
+  background: transparent;
+  color: var(--pp-ink);
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+}
+
+.button:hover {
+  border-color: var(--pp-ink);
+  text-decoration: none;
+}

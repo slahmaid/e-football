@@ -1,0 +1,11 @@
+.note {
+  margin: 0 0 1.5rem;
+  font-size: 0.82rem;
+  line-height: 1.45;
+  color: var(--pp-ink-muted);
+}
+
+.note a {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}

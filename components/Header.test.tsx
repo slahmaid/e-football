@@ -11,17 +11,21 @@ describe("Header", () => {
   it("renders left nav, centered logo, and social labels", () => {
     render(<Header />);
     const primary = screen.getByRole("navigation", { name: "Primary" });
-    expect(within(primary).getByRole("link", { name: "Contact" })).toHaveAttribute(
+    expect(within(primary).getByRole("link", { name: "Articles" })).toHaveAttribute(
       "href",
-      "/contact",
+      "/articles",
+    );
+    expect(within(primary).getByRole("link", { name: "Database" })).toHaveAttribute(
+      "href",
+      "/database",
     );
     expect(within(primary).getByRole("link", { name: "About Us" })).toHaveAttribute(
       "href",
       "/about",
     );
-    expect(within(primary).getByRole("link", { name: "Articles" })).toHaveAttribute(
+    expect(within(primary).getByRole("link", { name: "Contact" })).toHaveAttribute(
       "href",
-      "/articles",
+      "/contact",
     );
     expect(screen.getByRole("link", { name: "PixelPitch" })).toHaveAttribute(
       "href",
@@ -29,6 +33,9 @@ describe("Header", () => {
     );
     expect(screen.getAllByRole("link", { name: "YouTube" }).length).toBeGreaterThanOrEqual(1);
     expect(screen.getAllByRole("link", { name: "X" }).length).toBeGreaterThanOrEqual(1);
+    expect(screen.getAllByRole("link", { name: "Instagram" }).length).toBeGreaterThanOrEqual(1);
+    expect(screen.getAllByRole("link", { name: "Facebook" }).length).toBeGreaterThanOrEqual(1);
+    expect(screen.getAllByRole("link", { name: "TikTok" }).length).toBeGreaterThanOrEqual(1);
     expect(screen.getAllByRole("link", { name: "Discord" }).length).toBeGreaterThanOrEqual(1);
   });
 
@@ -40,5 +47,8 @@ describe("Header", () => {
     expect(panel).toHaveAttribute("hidden");
     await user.click(toggle);
     expect(panel).not.toHaveAttribute("hidden");
+    expect(
+      within(container).getByRole("button", { name: "Close menu" }),
+    ).toBeInTheDocument();
   });
 });

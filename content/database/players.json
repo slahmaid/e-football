@@ -1,0 +1,1415 @@
+[
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "GK",
+      "A",
+      "mid",
+      "possession-game"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "alisson-standard",
+    "name": "Alisson (Standard)",
+    "position": "GK",
+    "role": "Offensive Goalkeeper",
+    "tier": "A",
+    "budgetGp": "mid",
+    "playstyles": [
+      "possession-game"
+    ],
+    "bestFormations": [
+      "4-2-3-1"
+    ],
+    "verdict": "Safe distributor for Possession builds.",
+    "summary": "Offensive Goalkeeper GK — Safe distributor for Possession builds.",
+    "ratings": {
+      "attacking": 2,
+      "defending": 4,
+      "physical": 3,
+      "technical": 3
+    },
+    "pros": [
+      "Holds up in higher divisions",
+      "Fits possession game patterns"
+    ],
+    "cons": [
+      "Ceiling below top Epics",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "GK",
+      "A",
+      "mid",
+      "defensive"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "courtois-standard",
+    "name": "Courtois (Standard)",
+    "position": "GK",
+    "role": "Defensive Goalkeeper",
+    "tier": "A",
+    "budgetGp": "mid",
+    "playstyles": [
+      "defensive"
+    ],
+    "bestFormations": [
+      "5-2-1-2"
+    ],
+    "verdict": "Shot-stopping wall for low blocks.",
+    "summary": "Defensive Goalkeeper GK — Shot-stopping wall for low blocks.",
+    "ratings": {
+      "attacking": 2,
+      "defending": 4,
+      "physical": 3,
+      "technical": 3
+    },
+    "pros": [
+      "Holds up in higher divisions",
+      "Fits defensive patterns"
+    ],
+    "cons": [
+      "Ceiling below top Epics",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "GK",
+      "B",
+      "low",
+      "quick-counter"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "donnarumma-budget",
+    "name": "Donnarumma (Budget)",
+    "position": "GK",
+    "role": "Offensive Goalkeeper",
+    "tier": "B",
+    "budgetGp": "low",
+    "playstyles": [
+      "quick-counter"
+    ],
+    "bestFormations": [
+      "4-3-3"
+    ],
+    "verdict": "Budget height and presence.",
+    "summary": "Offensive Goalkeeper GK — Budget height and presence.",
+    "ratings": {
+      "attacking": 2,
+      "defending": 3,
+      "physical": 3,
+      "technical": 3
+    },
+    "pros": [
+      "Strong GP value",
+      "Fits quick counter patterns"
+    ],
+    "cons": [
+      "Ceiling below top Epics",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "CB",
+      "S",
+      "high",
+      "possession-game"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "van-dijk-standard",
+    "name": "Van Dijk (Standard)",
+    "position": "CB",
+    "role": "Build Up",
+    "tier": "S",
+    "budgetGp": "high",
+    "playstyles": [
+      "possession-game"
+    ],
+    "bestFormations": [
+      "4-2-3-1",
+      "4-3-3"
+    ],
+    "verdict": "Progressive CB who still wins duels.",
+    "summary": "Build Up CB — Progressive CB who still wins duels.",
+    "ratings": {
+      "attacking": 3,
+      "defending": 5,
+      "physical": 4,
+      "technical": 4
+    },
+    "pros": [
+      "Holds up in higher divisions",
+      "Fits possession game patterns"
+    ],
+    "cons": [
+      "Expensive to build/train",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "CB",
+      "A",
+      "mid",
+      "quick-counter"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "saliba-standard",
+    "name": "Saliba (Standard)",
+    "position": "CB",
+    "role": "Extra Frontman",
+    "tier": "A",
+    "budgetGp": "mid",
+    "playstyles": [
+      "quick-counter"
+    ],
+    "bestFormations": [
+      "4-2-1-3"
+    ],
+    "verdict": "Pacey CB for transition metas.",
+    "summary": "Extra Frontman CB — Pacey CB for transition metas.",
+    "ratings": {
+      "attacking": 2,
+      "defending": 4,
+      "physical": 3,
+      "technical": 3
+    },
+    "pros": [
+      "Holds up in higher divisions",
+      "Fits quick counter patterns"
+    ],
+    "cons": [
+      "Ceiling below top Epics",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "CB",
+      "B",
+      "low",
+      "defensive"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "marquinhos-budget",
+    "name": "Marquinhos (Budget)",
+    "position": "CB",
+    "role": "The Destroyer",
+    "tier": "B",
+    "budgetGp": "low",
+    "playstyles": [
+      "defensive",
+      "anchorman-focus"
+    ],
+    "bestFormations": [
+      "4-1-4-1"
+    ],
+    "verdict": "Cheap destroyer for Division grinders.",
+    "summary": "The Destroyer CB — Cheap destroyer for Division grinders.",
+    "ratings": {
+      "attacking": 2,
+      "defending": 3,
+      "physical": 3,
+      "technical": 3
+    },
+    "pros": [
+      "Strong GP value",
+      "Fits defensive patterns"
+    ],
+    "cons": [
+      "Ceiling below top Epics",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "RB",
+      "A",
+      "mid",
+      "possession-game"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "cancelo-standard",
+    "name": "Cancelo (Standard)",
+    "position": "RB",
+    "role": "Offensive Full-back",
+    "tier": "A",
+    "budgetGp": "mid",
+    "playstyles": [
+      "possession-game",
+      "overload"
+    ],
+    "bestFormations": [
+      "3-2-4-1",
+      "4-3-3"
+    ],
+    "verdict": "Inverted patterns and progressive carries.",
+    "summary": "Offensive Full-back RB — Inverted patterns and progressive carries.",
+    "ratings": {
+      "attacking": 4,
+      "defending": 4,
+      "physical": 3,
+      "technical": 3
+    },
+    "pros": [
+      "Holds up in higher divisions",
+      "Fits possession game patterns"
+    ],
+    "cons": [
+      "Ceiling below top Epics",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "LB",
+      "A",
+      "mid",
+      "quick-counter"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "davies-standard",
+    "name": "Alphonso Davies (Standard)",
+    "position": "LB",
+    "role": "Offensive Full-back",
+    "tier": "A",
+    "budgetGp": "mid",
+    "playstyles": [
+      "quick-counter",
+      "out-wide"
+    ],
+    "bestFormations": [
+      "4-3-3",
+      "4-2-1-3"
+    ],
+    "verdict": "Recovery pace after failed presses.",
+    "summary": "Offensive Full-back LB — Recovery pace after failed presses.",
+    "ratings": {
+      "attacking": 4,
+      "defending": 4,
+      "physical": 3,
+      "technical": 3
+    },
+    "pros": [
+      "Holds up in higher divisions",
+      "Fits quick counter patterns"
+    ],
+    "cons": [
+      "Ceiling below top Epics",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "LB",
+      "S",
+      "high",
+      "quick-counter"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "theo-standard",
+    "name": "Theo Hernández (Standard)",
+    "position": "LB",
+    "role": "Offensive Full-back",
+    "tier": "S",
+    "budgetGp": "high",
+    "playstyles": [
+      "quick-counter"
+    ],
+    "bestFormations": [
+      "4-2-1-3"
+    ],
+    "verdict": "End-to-end threat; mind the gaps.",
+    "summary": "Offensive Full-back LB — End-to-end threat; mind the gaps.",
+    "ratings": {
+      "attacking": 5,
+      "defending": 5,
+      "physical": 4,
+      "technical": 4
+    },
+    "pros": [
+      "Holds up in higher divisions",
+      "Fits quick counter patterns"
+    ],
+    "cons": [
+      "Expensive to build/train",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "DMF",
+      "S",
+      "high",
+      "possession-game"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "rodri-standard",
+    "name": "Rodri (Standard)",
+    "position": "DMF",
+    "role": "Anchorman",
+    "tier": "S",
+    "budgetGp": "high",
+    "playstyles": [
+      "possession-game",
+      "anchorman-focus"
+    ],
+    "bestFormations": [
+      "4-2-3-1",
+      "4-1-4-1"
+    ],
+    "verdict": "Tempo and protection in one card.",
+    "summary": "Anchorman DMF — Tempo and protection in one card.",
+    "ratings": {
+      "attacking": 3,
+      "defending": 5,
+      "physical": 4,
+      "technical": 4
+    },
+    "pros": [
+      "Holds up in higher divisions",
+      "Fits possession game patterns"
+    ],
+    "cons": [
+      "Expensive to build/train",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "DMF",
+      "B",
+      "low",
+      "quick-counter"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "tchouameni-budget",
+    "name": "Tchouaméni (Budget)",
+    "position": "DMF",
+    "role": "The Destroyer",
+    "tier": "B",
+    "budgetGp": "low",
+    "playstyles": [
+      "quick-counter"
+    ],
+    "bestFormations": [
+      "4-2-1-3"
+    ],
+    "verdict": "GP-friendly screen.",
+    "summary": "The Destroyer DMF — GP-friendly screen.",
+    "ratings": {
+      "attacking": 2,
+      "defending": 3,
+      "physical": 3,
+      "technical": 3
+    },
+    "pros": [
+      "Strong GP value",
+      "Fits quick counter patterns"
+    ],
+    "cons": [
+      "Ceiling below top Epics",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "DMF",
+      "A",
+      "mid",
+      "possession-game"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "kimmich-standard",
+    "name": "Kimmich (Standard)",
+    "position": "DMF",
+    "role": "Anchor / Box-to-Box hybrid",
+    "tier": "A",
+    "budgetGp": "mid",
+    "playstyles": [
+      "possession-game"
+    ],
+    "bestFormations": [
+      "4-2-3-1"
+    ],
+    "verdict": "Pass lanes from deep.",
+    "summary": "Anchor / Box-to-Box hybrid DMF — Pass lanes from deep.",
+    "ratings": {
+      "attacking": 2,
+      "defending": 4,
+      "physical": 3,
+      "technical": 3
+    },
+    "pros": [
+      "Holds up in higher divisions",
+      "Fits possession game patterns"
+    ],
+    "cons": [
+      "Ceiling below top Epics",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "CMF",
+      "S",
+      "high",
+      "overload"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "bellingham-standard",
+    "name": "Bellingham (Standard)",
+    "position": "CMF",
+    "role": "Box-to-Box",
+    "tier": "S",
+    "budgetGp": "high",
+    "playstyles": [
+      "overload",
+      "quick-counter"
+    ],
+    "bestFormations": [
+      "4-2-3-1",
+      "3-2-4-1"
+    ],
+    "verdict": "Arrives late in the box constantly.",
+    "summary": "Box-to-Box CMF — Arrives late in the box constantly.",
+    "ratings": {
+      "attacking": 5,
+      "defending": 2,
+      "physical": 4,
+      "technical": 5
+    },
+    "pros": [
+      "Holds up in higher divisions",
+      "Fits overload patterns"
+    ],
+    "cons": [
+      "Expensive to build/train",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "CMF",
+      "A",
+      "mid",
+      "quick-counter"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "valverde-standard",
+    "name": "Valverde (Standard)",
+    "position": "CMF",
+    "role": "Box-to-Box",
+    "tier": "A",
+    "budgetGp": "mid",
+    "playstyles": [
+      "quick-counter",
+      "out-wide"
+    ],
+    "bestFormations": [
+      "4-3-3"
+    ],
+    "verdict": "Engine + shot from distance.",
+    "summary": "Box-to-Box CMF — Engine + shot from distance.",
+    "ratings": {
+      "attacking": 4,
+      "defending": 2,
+      "physical": 3,
+      "technical": 4
+    },
+    "pros": [
+      "Holds up in higher divisions",
+      "Fits quick counter patterns"
+    ],
+    "cons": [
+      "Ceiling below top Epics",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "CMF",
+      "B",
+      "low",
+      "possession-game"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "pedri-budget",
+    "name": "Pedri (Budget base)",
+    "position": "CMF",
+    "role": "Orchestrator",
+    "tier": "B",
+    "budgetGp": "low",
+    "playstyles": [
+      "possession-game",
+      "short-passer"
+    ],
+    "bestFormations": [
+      "4-3-3",
+      "4-2-3-1"
+    ],
+    "verdict": "Technical recycler on a budget.",
+    "summary": "Orchestrator CMF — Technical recycler on a budget.",
+    "ratings": {
+      "attacking": 3,
+      "defending": 2,
+      "physical": 3,
+      "technical": 4
+    },
+    "pros": [
+      "Strong GP value",
+      "Fits possession game patterns"
+    ],
+    "cons": [
+      "Ceiling below top Epics",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "AMF",
+      "S",
+      "high",
+      "possession-game"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "de-bruyne-standard",
+    "name": "De Bruyne (Standard)",
+    "position": "AMF",
+    "role": "Classic No. 10",
+    "tier": "S",
+    "budgetGp": "high",
+    "playstyles": [
+      "possession-game",
+      "overload"
+    ],
+    "bestFormations": [
+      "4-2-3-1",
+      "4-2-2-2"
+    ],
+    "verdict": "Final ball still meta.",
+    "summary": "Classic No. 10 AMF — Final ball still meta.",
+    "ratings": {
+      "attacking": 5,
+      "defending": 2,
+      "physical": 4,
+      "technical": 5
+    },
+    "pros": [
+      "Holds up in higher divisions",
+      "Fits possession game patterns"
+    ],
+    "cons": [
+      "Expensive to build/train",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "AMF",
+      "A",
+      "mid",
+      "possession-game"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "wirtz-standard",
+    "name": "Wirtz (Standard)",
+    "position": "AMF",
+    "role": "Creative Playmaker",
+    "tier": "A",
+    "budgetGp": "mid",
+    "playstyles": [
+      "possession-game"
+    ],
+    "bestFormations": [
+      "4-2-3-1",
+      "4-3-2-1"
+    ],
+    "verdict": "Receives between lines cleanly.",
+    "summary": "Creative Playmaker AMF — Receives between lines cleanly.",
+    "ratings": {
+      "attacking": 4,
+      "defending": 2,
+      "physical": 3,
+      "technical": 4
+    },
+    "pros": [
+      "Holds up in higher divisions",
+      "Fits possession game patterns"
+    ],
+    "cons": [
+      "Ceiling below top Epics",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "AMF",
+      "B",
+      "low",
+      "quick-counter"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "foden-budget",
+    "name": "Foden (Budget)",
+    "position": "AMF",
+    "role": "Hole Player",
+    "tier": "B",
+    "budgetGp": "low",
+    "playstyles": [
+      "quick-counter"
+    ],
+    "bestFormations": [
+      "4-2-1-3"
+    ],
+    "verdict": "Late runs without Epic prices.",
+    "summary": "Hole Player AMF — Late runs without Epic prices.",
+    "ratings": {
+      "attacking": 3,
+      "defending": 2,
+      "physical": 3,
+      "technical": 4
+    },
+    "pros": [
+      "Strong GP value",
+      "Fits quick counter patterns"
+    ],
+    "cons": [
+      "Ceiling below top Epics",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "RWF",
+      "S",
+      "high",
+      "quick-counter"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "salah-standard",
+    "name": "Salah (Standard)",
+    "position": "RWF",
+    "role": "Roaming Flank",
+    "tier": "S",
+    "budgetGp": "high",
+    "playstyles": [
+      "quick-counter",
+      "out-wide"
+    ],
+    "bestFormations": [
+      "4-3-3",
+      "4-2-1-3"
+    ],
+    "verdict": "Cut inside and finish.",
+    "summary": "Roaming Flank RWF — Cut inside and finish.",
+    "ratings": {
+      "attacking": 5,
+      "defending": 2,
+      "physical": 4,
+      "technical": 5
+    },
+    "pros": [
+      "Holds up in higher divisions",
+      "Fits quick counter patterns"
+    ],
+    "cons": [
+      "Expensive to build/train",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "RWF",
+      "A",
+      "mid",
+      "out-wide"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "saka-standard",
+    "name": "Saka (Standard)",
+    "position": "RWF",
+    "role": "Prolific Winger",
+    "tier": "A",
+    "budgetGp": "mid",
+    "playstyles": [
+      "out-wide",
+      "possession-game"
+    ],
+    "bestFormations": [
+      "4-3-3"
+    ],
+    "verdict": "1v1 width with end product.",
+    "summary": "Prolific Winger RWF — 1v1 width with end product.",
+    "ratings": {
+      "attacking": 4,
+      "defending": 2,
+      "physical": 3,
+      "technical": 4
+    },
+    "pros": [
+      "Holds up in higher divisions",
+      "Fits out wide patterns"
+    ],
+    "cons": [
+      "Ceiling below top Epics",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "LWF",
+      "A",
+      "mid",
+      "quick-counter"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "leao-standard",
+    "name": "Leão (Standard)",
+    "position": "LWF",
+    "role": "Roaming Flank",
+    "tier": "A",
+    "budgetGp": "mid",
+    "playstyles": [
+      "quick-counter"
+    ],
+    "bestFormations": [
+      "4-3-3",
+      "4-2-1-3"
+    ],
+    "verdict": "Pace to punish high lines.",
+    "summary": "Roaming Flank LWF — Pace to punish high lines.",
+    "ratings": {
+      "attacking": 4,
+      "defending": 2,
+      "physical": 3,
+      "technical": 4
+    },
+    "pros": [
+      "Holds up in higher divisions",
+      "Fits quick counter patterns"
+    ],
+    "cons": [
+      "Ceiling below top Epics",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "LWF",
+      "S",
+      "high",
+      "quick-counter"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "vinicius-standard",
+    "name": "Vinícius Jr (Standard)",
+    "position": "LWF",
+    "role": "Prolific Winger",
+    "tier": "S",
+    "budgetGp": "high",
+    "playstyles": [
+      "quick-counter",
+      "out-wide"
+    ],
+    "bestFormations": [
+      "4-3-3"
+    ],
+    "verdict": "Isolation monster on the left.",
+    "summary": "Prolific Winger LWF — Isolation monster on the left.",
+    "ratings": {
+      "attacking": 5,
+      "defending": 2,
+      "physical": 4,
+      "technical": 5
+    },
+    "pros": [
+      "Holds up in higher divisions",
+      "Fits quick counter patterns"
+    ],
+    "cons": [
+      "Expensive to build/train",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "RWF",
+      "B",
+      "low",
+      "out-wide"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "dembele-budget",
+    "name": "Dembélé (Budget)",
+    "position": "RWF",
+    "role": "Roaming Flank",
+    "tier": "B",
+    "budgetGp": "low",
+    "playstyles": [
+      "out-wide"
+    ],
+    "bestFormations": [
+      "4-3-3"
+    ],
+    "verdict": "Chaos dribbler for GP squads.",
+    "summary": "Roaming Flank RWF — Chaos dribbler for GP squads.",
+    "ratings": {
+      "attacking": 3,
+      "defending": 2,
+      "physical": 3,
+      "technical": 4
+    },
+    "pros": [
+      "Strong GP value",
+      "Fits out wide patterns"
+    ],
+    "cons": [
+      "Ceiling below top Epics",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "CF",
+      "S",
+      "high",
+      "long-ball-counter"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "best-budget-strikers-efootball"
+    ],
+    "slug": "haaland-standard",
+    "name": "Haaland (Standard)",
+    "position": "CF",
+    "role": "Goal Poacher",
+    "tier": "S",
+    "budgetGp": "high",
+    "playstyles": [
+      "long-ball-counter",
+      "quick-counter"
+    ],
+    "bestFormations": [
+      "4-2-2-2",
+      "4-4-2"
+    ],
+    "verdict": "Penalty-box gravity.",
+    "summary": "Goal Poacher CF — Penalty-box gravity.",
+    "ratings": {
+      "attacking": 5,
+      "defending": 2,
+      "physical": 4,
+      "technical": 4
+    },
+    "pros": [
+      "Holds up in higher divisions",
+      "Fits long ball counter patterns"
+    ],
+    "cons": [
+      "Expensive to build/train",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "CF",
+      "A",
+      "mid",
+      "possession-game"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "best-budget-strikers-efootball"
+    ],
+    "slug": "kane-standard",
+    "name": "Kane (Standard)",
+    "position": "CF",
+    "role": "Deep-Lying Forward",
+    "tier": "A",
+    "budgetGp": "mid",
+    "playstyles": [
+      "possession-game",
+      "link-up-play"
+    ],
+    "bestFormations": [
+      "4-2-3-1",
+      "3-5-2"
+    ],
+    "verdict": "Link play and finishing.",
+    "summary": "Deep-Lying Forward CF — Link play and finishing.",
+    "ratings": {
+      "attacking": 4,
+      "defending": 2,
+      "physical": 3,
+      "technical": 3
+    },
+    "pros": [
+      "Holds up in higher divisions",
+      "Fits possession game patterns"
+    ],
+    "cons": [
+      "Ceiling below top Epics",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "CF",
+      "B",
+      "low",
+      "quick-counter"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "best-budget-strikers-efootball"
+    ],
+    "slug": "osihmen-budget",
+    "name": "Osimhen (Budget)",
+    "position": "CF",
+    "role": "Goal Poacher",
+    "tier": "B",
+    "budgetGp": "low",
+    "playstyles": [
+      "quick-counter",
+      "long-ball-counter"
+    ],
+    "bestFormations": [
+      "4-2-1-3",
+      "4-4-2"
+    ],
+    "verdict": "Best GP striker archetype for many.",
+    "summary": "Goal Poacher CF — Best GP striker archetype for many.",
+    "ratings": {
+      "attacking": 3,
+      "defending": 2,
+      "physical": 3,
+      "technical": 3
+    },
+    "pros": [
+      "Strong GP value",
+      "Fits quick counter patterns"
+    ],
+    "cons": [
+      "Ceiling below top Epics",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "CF",
+      "S",
+      "high",
+      "quick-counter"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "best-budget-strikers-efootball"
+    ],
+    "slug": "mbappe-standard",
+    "name": "Mbappé (Standard)",
+    "position": "CF",
+    "role": "Goal Poacher / SS flex",
+    "tier": "S",
+    "budgetGp": "high",
+    "playstyles": [
+      "quick-counter"
+    ],
+    "bestFormations": [
+      "4-2-1-3",
+      "4-3-3"
+    ],
+    "verdict": "Primary counter outlet.",
+    "summary": "Goal Poacher / SS flex CF — Primary counter outlet.",
+    "ratings": {
+      "attacking": 5,
+      "defending": 2,
+      "physical": 4,
+      "technical": 4
+    },
+    "pros": [
+      "Holds up in higher divisions",
+      "Fits quick counter patterns"
+    ],
+    "cons": [
+      "Expensive to build/train",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "SS",
+      "A",
+      "mid",
+      "possession-game"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "best-budget-strikers-efootball"
+    ],
+    "slug": "griezmann-standard",
+    "name": "Griezmann (Standard)",
+    "position": "SS",
+    "role": "Creative Playmaker",
+    "tier": "A",
+    "budgetGp": "mid",
+    "playstyles": [
+      "possession-game",
+      "link-up-play"
+    ],
+    "bestFormations": [
+      "4-2-2-2",
+      "3-5-2"
+    ],
+    "verdict": "Drops into pockets constantly.",
+    "summary": "Creative Playmaker SS — Drops into pockets constantly.",
+    "ratings": {
+      "attacking": 4,
+      "defending": 2,
+      "physical": 3,
+      "technical": 4
+    },
+    "pros": [
+      "Holds up in higher divisions",
+      "Fits possession game patterns"
+    ],
+    "cons": [
+      "Ceiling below top Epics",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "SS",
+      "A",
+      "mid",
+      "overload"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "best-budget-strikers-efootball"
+    ],
+    "slug": "musiala-standard",
+    "name": "Musiala (Standard)",
+    "position": "SS",
+    "role": "Hole Player",
+    "tier": "A",
+    "budgetGp": "mid",
+    "playstyles": [
+      "overload",
+      "possession-game"
+    ],
+    "bestFormations": [
+      "4-3-2-1",
+      "3-2-4-1"
+    ],
+    "verdict": "Carries through half-spaces.",
+    "summary": "Hole Player SS — Carries through half-spaces.",
+    "ratings": {
+      "attacking": 4,
+      "defending": 2,
+      "physical": 3,
+      "technical": 4
+    },
+    "pros": [
+      "Holds up in higher divisions",
+      "Fits overload patterns"
+    ],
+    "cons": [
+      "Ceiling below top Epics",
+      "Standard pool — boosted cards may outclass"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "CF",
+      "B",
+      "low",
+      "link-up-play"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "best-budget-strikers-efootball"
+    ],
+    "slug": "lautaro-budget",
+    "name": "Lautaro (Budget)",
+    "position": "CF",
+    "role": "Fox in the Box",
+    "tier": "B",
+    "budgetGp": "low",
+    "playstyles": [
+      "link-up-play"
+    ],
+    "bestFormations": [
+      "3-5-2",
+      "4-4-2"
+    ],
+    "verdict": "Movement over raw pace.",
+    "summary": "Fox in the Box CF — Movement over raw pace.",
+    "ratings": {
+      "attacking": 3,
+      "defending": 2,
+      "physical": 3,
+      "technical": 3
+    },
+    "pros": [
+      "Strong GP value",
+      "Fits link up play patterns"
+    ],
+    "cons": [
+      "Ceiling below top Epics",
+      "Standard pool — boosted cards may outclass"
+    ]
+  }
+]

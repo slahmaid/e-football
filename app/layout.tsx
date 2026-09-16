@@ -1,5 +1,10 @@
 import type { Metadata } from "next";
 import { Libre_Franklin, Source_Serif_4 } from "next/font/google";
+import { Analytics } from "@/components/Analytics";
+import { ConsentProvider } from "@/components/ConsentProvider";
+import { CookieConsent } from "@/components/CookieConsent";
+import { Footer } from "@/components/Footer";
+import { JsonLd, organizationJsonLd, websiteJsonLd } from "@/components/JsonLd";
 import "./globals.css";
 
 const libreFranklin = Libre_Franklin({
@@ -15,12 +20,21 @@ const sourceSerif = Source_Serif_4({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(
+    process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "") ??
+      "https://pixelpitch.blog",
+  ),
   title: {
     default: "PixelPitch — eFootball Blog",
     template: "%s | PixelPitch",
   },
   description:
     "PixelPitch covers eFootball news, guides, and match analysis — clean sports editorial for competitive players.",
+  alternates: {
+    types: {
+      "application/rss+xml": "/feed.xml",
+    },
+  },
   openGraph: {
     title: "PixelPitch — eFootball Blog",
     description:
@@ -47,7 +61,17 @@ export default function RootLayout({
       lang="en"
       className={`${libreFranklin.variable} ${sourceSerif.variable}`}
     >
-      <body>{children}</body>
+      <body suppressHydrationWarning>
+        <ConsentProvider>
+          <JsonLd data={[websiteJsonLd(), organizationJsonLd()]} />
+          <div className="site-shell">
+            <div className="site-content">{children}</div>
+            <Footer />
+          </div>
+          <CookieConsent />
+          <Analytics />
+        </ConsentProvider>
+      </body>
     </html>
   );
 }

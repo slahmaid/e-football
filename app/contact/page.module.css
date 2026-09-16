@@ -1,0 +1,109 @@
+.leaderboardWrap {
+  padding: 1rem 1.25rem 0;
+}
+
+.main {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2rem 1.25rem 4rem;
+}
+
+.eyebrow {
+  margin: 0 0 0.65rem;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--pp-ink-muted);
+}
+
+.title {
+  margin: 0 0 1rem;
+  font-family: var(--pp-font-serif);
+  font-size: clamp(2rem, 4vw, 2.75rem);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+}
+
+.lead {
+  margin: 0 0 2rem;
+  font-size: 1.15rem;
+  line-height: 1.55;
+  color: var(--pp-ink-muted);
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  max-width: 28rem;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.label {
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.input,
+.textarea {
+  width: 100%;
+  padding: 0.7rem 0.85rem;
+  border: 1px solid var(--pp-rule);
+  background: #fff;
+  color: var(--pp-ink);
+  font: inherit;
+  font-size: 1rem;
+  border-radius: 0;
+}
+
+.input:focus,
+.textarea:focus {
+  outline: 2px solid var(--pp-ink);
+  outline-offset: 1px;
+}
+
+.textarea {
+  min-height: 8rem;
+  resize: vertical;
+}
+
+.submit {
+  align-self: flex-start;
+  margin-top: 0.25rem;
+  padding: 0.75rem 1.25rem;
+  border: 1px solid var(--pp-ink);
+  background: var(--pp-ink);
+  color: var(--pp-bg);
+  font: inherit;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.submit:hover {
+  background: transparent;
+  color: var(--pp-ink);
+}
+
+.note {
+  margin: 1.5rem 0 0;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--pp-ink-muted);
+}
+
+.note a {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}

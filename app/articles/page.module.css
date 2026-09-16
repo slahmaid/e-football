@@ -1,0 +1,47 @@
+.leaderboardWrap {
+  padding: 1rem 1.25rem 0;
+}
+
+.main {
+  max-width: var(--pp-max);
+  margin: 0 auto;
+  padding: 2rem 1.25rem 4rem;
+}
+
+.intro {
+  max-width: 40rem;
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--pp-rule);
+}
+
+.eyebrow {
+  margin: 0 0 0.65rem;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--pp-ink-muted);
+}
+
+.title {
+  margin: 0 0 0.75rem;
+  font-family: var(--pp-font-serif);
+  font-size: clamp(2rem, 4vw, 2.75rem);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+}
+
+.lead {
+  margin: 0;
+  font-size: 1.05rem;
+  line-height: 1.55;
+  color: var(--pp-ink-muted);
+}
+
+.empty {
+  margin: 0;
+  font-size: 1rem;
+  color: var(--pp-ink-muted);
+}

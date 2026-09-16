@@ -1,0 +1,33 @@
+.box {
+  margin: 2rem 0 0;
+  padding: 1.25rem 0 0;
+  border-top: 1px solid var(--pp-rule);
+}
+
+.eyebrow {
+  margin: 0 0 0.4rem;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--pp-ink-muted);
+}
+
+.name {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.role {
+  font-weight: 400;
+  color: var(--pp-ink-muted);
+}
+
+.bio {
+  margin: 0.5rem 0 0;
+  font-size: 0.95rem;
+  line-height: 1.55;
+  color: var(--pp-ink-muted);
+  max-width: 36rem;
+}

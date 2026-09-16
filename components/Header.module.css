@@ -1,17 +1,23 @@
 .header {
+  position: sticky;
+  top: 0;
+  z-index: 40;
   border-bottom: 1px solid var(--pp-rule);
-  background: var(--pp-bg);
+  background: rgba(247, 245, 241, 0.94);
+  backdrop-filter: blur(10px);
 }
 
 .inner {
   position: relative;
   max-width: var(--pp-max);
   margin: 0 auto;
-  padding: 0.85rem 1.25rem;
+  padding: 0.75rem 1rem;
+  padding-left: max(1rem, env(safe-area-inset-left));
+  padding-right: max(1rem, env(safe-area-inset-right));
   display: grid;
   grid-template-columns: 1fr auto 1fr;
   align-items: center;
-  gap: 1rem;
+  gap: 0.75rem;
 }
 
 .nav {
@@ -47,15 +53,29 @@
 
 .socials {
   display: flex;
-  gap: 0.85rem;
+  flex-wrap: wrap;
+  gap: 0.15rem;
   justify-content: flex-end;
   align-items: center;
 }
 
+@media (min-width: 900px) {
+  .socials {
+    gap: 0.25rem;
+  }
+}
+
 .socialLink {
   display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  min-width: 36px;
+  min-height: 36px;
   color: var(--pp-ink);
   opacity: 0.85;
+  line-height: 0;
 }
 
 .socialLink:hover {
@@ -63,20 +83,35 @@
 }
 
 .socialLink svg {
+  display: block;
   width: 18px;
   height: 18px;
+  flex-shrink: 0;
+}
+
+@media (min-width: 769px) {
+  .socialLink {
+    width: 32px;
+    height: 32px;
+    min-width: 32px;
+    min-height: 32px;
+  }
 }
 
 .menuButton {
   display: inline-flex;
+  align-items: center;
+  justify-content: center;
   justify-self: start;
+  min-height: 44px;
+  min-width: 4.5rem;
   background: none;
   border: 1px solid var(--pp-rule);
   color: var(--pp-ink);
   font-size: 0.7rem;
   letter-spacing: 0.12em;
   text-transform: uppercase;
-  padding: 0.4rem 0.6rem;
+  padding: 0.55rem 0.75rem;
   cursor: pointer;
 }
 
@@ -85,6 +120,8 @@
     position: absolute;
     width: 1px;
     height: 1px;
+    min-width: 0;
+    min-height: 0;
     padding: 0;
     margin: -1px;
     overflow: hidden;
@@ -97,9 +134,15 @@
 .mobilePanel {
   display: none;
   border-top: 1px solid var(--pp-rule);
-  padding: 1rem 1.25rem 1.25rem;
+  padding: 0.5rem 1rem 1.5rem;
+  padding-left: max(1rem, env(safe-area-inset-left));
+  padding-right: max(1rem, env(safe-area-inset-right));
+  padding-bottom: max(1.5rem, env(safe-area-inset-bottom));
   flex-direction: column;
-  gap: 1rem;
+  gap: 1.25rem;
+  max-height: min(70dvh, 28rem);
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 .mobilePanelOpen {
@@ -109,12 +152,30 @@
 .mobileNav {
   display: flex;
   flex-direction: column;
-  gap: 0.75rem;
+  gap: 0;
+}
+
+.mobileNavLink {
+  display: flex;
+  align-items: center;
+  min-height: 48px;
+  padding: 0.35rem 0;
+  border-bottom: 1px solid var(--pp-rule);
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.mobileNavLink:last-child {
+  border-bottom: 0;
 }
 
 .mobileSocials {
   display: flex;
-  gap: 1rem;
+  gap: 0.35rem;
+  padding-top: 0.25rem;
 }
 
 @media (max-width: 768px) {
@@ -131,7 +192,6 @@
     position: static;
     width: auto;
     height: auto;
-    padding: 0.4rem 0.6rem;
     margin: 0;
     overflow: visible;
     clip: auto;
@@ -145,6 +205,12 @@
   }
 
   .logo {
-    height: 32px;
+    height: 30px;
+  }
+}
+
+@media (min-width: 769px) {
+  .inner {
+    padding: 0.85rem 1.25rem;
   }
 }

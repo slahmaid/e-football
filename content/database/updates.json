@@ -1,0 +1,151 @@
+[
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "v6"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "fluid-formations-v6-guide"
+    ],
+    "slug": "v6-0-0-fluid-formations",
+    "name": "v6.0.0 — Fluid Formations",
+    "version": "6.0.0",
+    "type": "feature",
+    "summary": "Game Plan tools for fluid shape changes mid-match.",
+    "highlights": [
+      "Fluid Formations",
+      "Expanded Game Plan",
+      "Build variety in Division"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "shooting"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "dynamic-volley-stunning-shot"
+    ],
+    "slug": "v6-dynamic-volley",
+    "name": "Dynamic Volley / Stunning Shot updates",
+    "type": "balance",
+    "summary": "Timing windows and animation updates for spectacular finishes.",
+    "highlights": [
+      "Dynamic Volley",
+      "Stunning Shot timing",
+      "Practice in training"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "tournament"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "custom-tournament-mode-guide"
+    ],
+    "slug": "v6-custom-tournament",
+    "name": "Custom Tournament mode",
+    "type": "mode",
+    "summary": "Create and join structured tournament brackets.",
+    "highlights": [
+      "Bracket tools",
+      "House rules",
+      "Competitive sets"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "tactics"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      },
+      {
+        "label": "Konami games topics",
+        "url": "https://www.konami.com/games/us/en/topics/3344/"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "overload-playstyle-conte-linkup"
+    ],
+    "slug": "v6-overload-playstyle",
+    "name": "Overload playstyle & Link-Up",
+    "type": "feature",
+    "summary": "Overload instructions and dual Link-Up support patterns.",
+    "highlights": [
+      "Overload",
+      "Link-Up Play",
+      "Conte-style dual links"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "season"
+    ],
+    "sources": [
+      {
+        "label": "Konami games topics",
+        "url": "https://www.konami.com/games/us/en/topics/3344/"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "new-season-campaign-priorities"
+    ],
+    "slug": "season-open-2026",
+    "name": "Season open infrastructure",
+    "type": "version",
+    "summary": "New season campaign scaffolding and reward tracks.",
+    "highlights": [
+      "Campaign calendar",
+      "Login tracks",
+      "Fresh meta reset"
+    ]
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "online"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "manual-passing-vs-assisted"
+    ],
+    "slug": "netcode-stability-notes",
+    "name": "Online stability notes",
+    "type": "balance",
+    "summary": "Ongoing online matchmaking and input responsiveness notes.",
+    "highlights": [
+      "Input timing",
+      "Matchmaking",
+      "Report tools"
+    ]
+  }
+]

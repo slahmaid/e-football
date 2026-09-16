@@ -1,10 +1,76 @@
-.leaderboardWrap {
-  padding: 1rem 1.25rem 0;
-}
-
 .main {
   max-width: var(--pp-max);
   margin: 0 auto;
-  padding: 2rem 1.25rem 4rem;
-  min-height: 40vh;
+  padding: 1rem var(--pp-page-pad) 3.5rem;
+}
+
+.hero {
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--pp-rule);
+}
+
+.leaderboardWrap {
+  padding: 1.25rem 0 0;
+}
+
+.layout {
+  display: grid;
+  gap: 2rem;
+  padding-top: 2rem;
+}
+
+.content {
+  min-width: 0;
+}
+
+.sidebar {
+  display: none;
+}
+
+.sidebarInner {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.sidebarLabel {
+  margin: 0;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--pp-ink-muted);
+}
+
+@media (min-width: 640px) {
+  .main {
+    padding-top: 1.5rem;
+    padding-bottom: 4rem;
+  }
+
+  .hero {
+    padding-bottom: 2rem;
+  }
+
+  .layout {
+    gap: 2.5rem;
+    padding-top: 2.5rem;
+  }
+}
+
+@media (min-width: 960px) {
+  .layout {
+    grid-template-columns: minmax(0, 1fr) 300px;
+    gap: 2.5rem;
+    align-items: start;
+  }
+
+  .sidebar {
+    display: block;
+  }
+
+  .sidebarInner {
+    position: sticky;
+    top: 5rem;
+  }
 }

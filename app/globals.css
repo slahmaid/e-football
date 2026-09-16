@@ -6,12 +6,19 @@
   --pp-max: 1120px;
   --pp-font-sans: var(--font-libre-franklin), "Libre Franklin", sans-serif;
   --pp-font-serif: var(--font-source-serif), "Source Serif 4", serif;
+  --pp-page-pad: 1rem;
+  --pp-consent-space: 0px;
 }
 
 *,
 *::before,
 *::after {
   box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
 }
 
 html,
@@ -21,6 +28,18 @@ body {
   background: var(--pp-bg);
   color: var(--pp-ink);
   font-family: var(--pp-font-sans);
+  overflow-x: clip;
+}
+
+.site-shell {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: var(--pp-consent-space);
+}
+
+.site-content {
+  flex: 1 0 auto;
 }
 
 a {
@@ -36,4 +55,28 @@ img {
   max-width: 100%;
   height: auto;
   display: block;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+  touch-action: manipulation;
+}
+
+@media (max-width: 768px) {
+  :root {
+    --pp-page-pad: 1rem;
+  }
+
+  html[data-consent-banner] {
+    --pp-consent-space: 8.5rem;
+  }
+}
+
+@media (min-width: 769px) {
+  :root {
+    --pp-page-pad: 1.25rem;
+  }
 }

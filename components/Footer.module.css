@@ -1,0 +1,143 @@
+.footer {
+  margin-top: 3rem;
+  border-top: 1px solid var(--pp-rule);
+  background: var(--pp-bg);
+}
+
+.inner {
+  max-width: var(--pp-max);
+  margin: 0 auto;
+  padding: 2rem var(--pp-page-pad) 1.5rem;
+  padding-bottom: max(1.5rem, env(safe-area-inset-bottom));
+  display: grid;
+  gap: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .inner {
+    padding: 2.5rem 1.25rem 1.75rem;
+    gap: 1.75rem;
+  }
+}
+
+.brandName {
+  font-family: var(--pp-font-serif);
+  font-size: 1.35rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  text-decoration: none;
+}
+
+.brandName:hover {
+  text-decoration: underline;
+}
+
+.tagline {
+  margin: 0.5rem 0 0;
+  max-width: 22rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: var(--pp-ink-muted);
+}
+
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem 1.5rem;
+}
+
+.navLink {
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.navLink:hover {
+  text-decoration: underline;
+}
+
+.socials {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.socialLink {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  color: var(--pp-ink);
+  opacity: 0.85;
+  line-height: 0;
+}
+
+.socialLink:hover {
+  opacity: 1;
+}
+
+.socialLink svg {
+  display: block;
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+}
+
+.bottom {
+  border-top: 1px solid var(--pp-rule);
+}
+
+.bottomInner {
+  max-width: var(--pp-max);
+  margin: 0 auto;
+  padding: 1rem 1.25rem 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.25rem;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.copy {
+  margin: 0;
+  font-size: 0.8rem;
+  color: var(--pp-ink-muted);
+}
+
+.legal {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1rem;
+}
+
+.legalLink {
+  font-size: 0.75rem;
+  color: var(--pp-ink-muted);
+  text-decoration: none;
+}
+
+.legalLink:hover {
+  color: var(--pp-ink);
+  text-decoration: underline;
+}
+
+@media (min-width: 768px) {
+  .inner {
+    grid-template-columns: 1.4fr 1fr auto;
+    align-items: start;
+    gap: 2rem;
+  }
+
+  .nav {
+    justify-content: center;
+  }
+
+  .socials {
+    justify-content: flex-end;
+  }
+}

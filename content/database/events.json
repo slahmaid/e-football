@@ -1,0 +1,221 @@
+[
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "campaign",
+      "priority"
+    ],
+    "sources": [
+      {
+        "label": "Konami games topics",
+        "url": "https://www.konami.com/games/us/en/topics/3344/"
+      },
+      {
+        "label": "Konami eFootball news",
+        "url": "https://www.konami.com/efootball/en/topic/news/5558"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "new-season-campaign-priorities"
+    ],
+    "slug": "new-season-campaign-aug-sep",
+    "name": "New Season Campaign",
+    "summary": "Login and mission track for the season open window.",
+    "start": "2026-08-13",
+    "end": "2026-09-03",
+    "type": "campaign",
+    "priority": "must-do",
+    "rewardsSummary": "Progression rewards and season kickoff value — clear dailies first."
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "daily",
+      "collab"
+    ],
+    "sources": [
+      {
+        "label": "Konami eFootball news",
+        "url": "https://www.konami.com/efootball/en/topic/news/5558"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "daily-super-play-platinumgames"
+    ],
+    "slug": "daily-super-play",
+    "name": "Daily Super Play",
+    "summary": "PlatinumGames collab daily challenge mode.",
+    "type": "mode",
+    "priority": "situational",
+    "rewardsSummary": "Daily clears for cosmetic/currency value — skip if time-poor after main campaign."
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "pack",
+      "spender"
+    ],
+    "sources": [
+      {
+        "label": "Konami eFootball news",
+        "url": "https://www.konami.com/efootball/en/topic/news/5558"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "messi-yamal-ambassador-packs"
+    ],
+    "slug": "messi-yamal-ambassador-packs",
+    "name": "Messi & Yamal Ambassador Packs",
+    "summary": "High-visibility ambassador marketing packs.",
+    "type": "pack",
+    "priority": "skip",
+    "rewardsSummary": "Entertainment pull only — set a hard coin/cash cap before opening."
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "pass"
+    ],
+    "sources": [
+      {
+        "label": "Konami eFootball news",
+        "url": "https://www.konami.com/efootball/en/topic/news/5558"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-event-calendar-september"
+    ],
+    "slug": "match-pass-current",
+    "name": "Match Pass (current cycle)",
+    "summary": "Track free vs paid track value each cycle.",
+    "type": "matchpass",
+    "priority": "situational",
+    "rewardsSummary": "Grab free track always; buy only if the paid track beats shop GP rates."
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "tournament"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "custom-tournament-mode-guide"
+    ],
+    "slug": "custom-tournament-push",
+    "name": "Custom Tournament Week",
+    "summary": "Community and official custom brackets spike.",
+    "type": "mode",
+    "priority": "situational",
+    "rewardsSummary": "Practice 5-atb / clock management before entering."
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "potw"
+    ],
+    "sources": [
+      {
+        "label": "Konami eFootball news",
+        "url": "https://www.konami.com/efootball/en/topic/news/5558"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-event-calendar-september"
+    ],
+    "slug": "potw-weekend",
+    "name": "POTW Weekend Selection",
+    "summary": "Weekly selection pack rotation.",
+    "type": "pack",
+    "priority": "situational",
+    "rewardsSummary": "Only chase if a starter upgrade is inside your position of need."
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "login"
+    ],
+    "sources": [
+      {
+        "label": "Konami games topics",
+        "url": "https://www.konami.com/games/us/en/topics/3344/"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "new-season-campaign-priorities"
+    ],
+    "slug": "login-bonus-streak",
+    "name": "Extended Login Bonus",
+    "summary": "Multi-day login currency and trainers.",
+    "type": "campaign",
+    "priority": "must-do",
+    "rewardsSummary": "Never break the streak during campaign overlap."
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "shop"
+    ],
+    "sources": [
+      {
+        "label": "Konami eFootball news",
+        "url": "https://www.konami.com/efootball/en/topic/news/5558"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "best-budget-strikers-efootball"
+    ],
+    "slug": "eFootball-points-shop-rotation",
+    "name": "eFootball Points Shop Rotation",
+    "summary": "Check featured trainers and skill resets.",
+    "type": "campaign",
+    "priority": "situational",
+    "rewardsSummary": "Spend points on trainers before cosmetics if squad is unfinished."
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "division"
+    ],
+    "sources": [
+      {
+        "label": "eFootball Version Info",
+        "url": "https://www.konami.com/efootball/en/page/v6/versioninfo_v6-00"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "efootball-2026-formation-meta"
+    ],
+    "slug": "division-rewards-week",
+    "name": "Division Settlement Week",
+    "summary": "End-of-phase Division rewards.",
+    "type": "campaign",
+    "priority": "must-do",
+    "rewardsSummary": "Play your remaining matches before settlement; don't risk rank for vanity."
+  },
+  {
+    "updated": "2026-09-16",
+    "tags": [
+      "skills"
+    ],
+    "sources": [
+      {
+        "label": "Konami eFootball news",
+        "url": "https://www.konami.com/efootball/en/topic/news/5558"
+      }
+    ],
+    "relatedArticleSlugs": [
+      "manual-passing-vs-assisted"
+    ],
+    "slug": "skill-transfer-event",
+    "name": "Skill Transfer Spotlight",
+    "summary": "Windows where skill fodder is easier to source.",
+    "type": "campaign",
+    "priority": "situational",
+    "rewardsSummary": "Plan one skill upgrade for your starter, not five half-done cards."
+  }
+]
