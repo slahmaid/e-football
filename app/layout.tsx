@@ -5,6 +5,7 @@ import { ConsentProvider } from "@/components/ConsentProvider";
 import { CookieConsent } from "@/components/CookieConsent";
 import { Footer } from "@/components/Footer";
 import { JsonLd, organizationJsonLd, websiteJsonLd } from "@/components/JsonLd";
+import { resolveSiteUrl } from "@/lib/site";
 import "./globals.css";
 
 const libreFranklin = Libre_Franklin({
@@ -20,10 +21,7 @@ const sourceSerif = Source_Serif_4({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL(
-    process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "") ??
-      "https://pixelpitch.blog",
-  ),
+  metadataBase: new URL(resolveSiteUrl()),
   title: {
     default: "PixelPitch — eFootball Blog",
     template: "%s | PixelPitch",

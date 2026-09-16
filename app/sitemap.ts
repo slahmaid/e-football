@@ -6,16 +6,10 @@ import {
   getPlayers,
   getPlaystyles,
 } from "@/lib/database";
-
-function getSiteUrl(): string {
-  return (
-    process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "") ??
-    "https://pixelpitch.blog"
-  );
-}
+import { resolveSiteUrl } from "@/lib/site";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const base = getSiteUrl();
+  const base = resolveSiteUrl();
   const now = new Date();
 
   const staticRoutes: MetadataRoute.Sitemap = [

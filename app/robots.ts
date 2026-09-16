@@ -1,14 +1,8 @@
 import type { MetadataRoute } from "next";
-
-function getSiteUrl(): string {
-  return (
-    process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "") ??
-    "https://pixelpitch.blog"
-  );
-}
+import { resolveSiteUrl } from "@/lib/site";
 
 export default function robots(): MetadataRoute.Robots {
-  const base = getSiteUrl();
+  const base = resolveSiteUrl();
 
   return {
     rules: [
